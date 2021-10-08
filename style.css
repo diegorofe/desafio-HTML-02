@@ -1,15 +1,22 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(1, 17, 17);
-    text-align: center;
+
+    margin-left: 50px;
+    background-image: url('imagens/back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 
 h1{
     color: whitesmoke;
-    text-align: center;
+   margin-left: 30px;
 }
+.butom-back {
+ background-position-x: 400px;
+}
+
 
 
 
