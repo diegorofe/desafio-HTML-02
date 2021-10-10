@@ -2,20 +2,59 @@
 
 body {
 
-    margin-left: 50px;
-    background-image: url('imagens/back.png');
+    margin: 0 auto 100px auto;
+    width: 70%;
+
     background-repeat: no-repeat;
     background-size: cover;
-    
-}
+    }
 
-h1{
-    color: whitesmoke;
-   margin-left: 30px;
+ 
+    
+    article{
+      
+    }
+
+    label{
+        font-size: 15px;
+    }
+    #videos{
+        background-color: #fffafa;
+    }
+
+    #picture-video{
+        margin: 5px auto 1px auto;
+        width: 50%;
+    }
+    #search{
+        margin-top: 20px;
+    }
+
+    h3{
+margin-top: 10px;
+    }
+h6{
+    font-family:'Montserrat', sans-serif;
+    color: #008080;
+    font-size: 8px;
+    margin: 0 0 0 0;
+       
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
 }
 .butom-back {
  background-position-x: 400px;
 }
+
+
+.last-line{
+
+    color: gray;
+
+}
+
 
 
 
